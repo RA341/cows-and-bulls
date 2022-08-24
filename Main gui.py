@@ -6,7 +6,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Razer",
+    password="password",
 )
 
 mycursor = mydb.cursor()
@@ -16,7 +16,7 @@ mycursor.execute("CREATE DATABASE IF NOT EXISTS playerdatabase")
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Razer",
+    password="password",
     database="playerdatabase"
 )
 
@@ -329,7 +329,6 @@ top.geometry("569x476")
 top.resizable(False, False)
 top.title("Cows and Bulls")
 top.configure(background=bg)
-
 
 
 ########################################################################################
