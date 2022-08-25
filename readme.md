@@ -5,13 +5,18 @@ Uses mysql to store various data
 # Prerequisites
 Working installation of mysql server
 
-python installed and added to path
+python 3.5 installed and added to path
 
-Install dependencies by  ```pip install -r Requirements.txt```
+Install dependencies by  
+```pip install -r Requirements.txt```
 
 # Running the program
-* add your username and password to ```main gui.py```
-* ```python "main gui.py"```
+* Add your username and password to 
+  ```main gui.py```
+
+* Run the program by - 
+  ```python "main gui.py"```
 
 # Todo
 * Improve UI elements
+* bugs
