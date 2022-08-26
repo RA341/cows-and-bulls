@@ -18,7 +18,7 @@ Install dependencies by
   ```python "main gui.py"```
 # Screenshot
 
-![0](https://user-images.githubusercontent.com/39427910/186587284-516f30ec-f2d8-41e0-bd69-629e50fa098a.png)
+<img src="https://user-images.githubusercontent.com/39427910/186587284-516f30ec-f2d8-41e0-bd69-629e50fa098a.png" width="400">
 
 # Todo
 * Improve UI elements
